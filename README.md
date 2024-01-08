@@ -1,3 +1,3 @@
 # Лекции по Django от GeekBrains
 
-testing2
+testing3
