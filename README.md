@@ -1,3 +1,3 @@
 # Лекции по Django от GeekBrains
 
-testing3
+Здесь лежат примеры из лекций по Django

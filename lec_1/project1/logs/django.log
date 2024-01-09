@@ -1,0 +1,6 @@
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 23
+"GET / HTTP/1.1" 200 39
+Watching for file changes with StatReloader
+INFO 2024-01-09 17:42:43,416 autoreload 59737 140322154598400 Watching for file changes with StatReloader
+INFO 2024-01-09 17:42:52,980 basehttp 59737 140322104747584 "GET / HTTP/1.1" 200 39
